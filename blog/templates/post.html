@@ -1,0 +1,53 @@
+{% extends 'base.html' %} {% load crispy_forms_tags %} {% block content %}
+
+<div class="container-fluid">
+
+    <div class="row">
+        <div class="col-md-8">
+            <div class="post">
+                <h1 id="post-title">{{ post.title }}</h1>
+                <span class="post-span">by
+                    <i>{{ post.user_id }}</i> on {{ post.date_published.date }}</span>
+                {% if post.image %}
+                <ul class="post-short-categories categories">
+                        {% for categorie in post.categories.all %}
+                        <li>
+                            <a href="{% url 'blog:categorie' categorie.id %}">{{ categorie.categorie }}</a>
+                        </li>
+                        {% endfor %}   
+                    </ul>
+                <img src="{{ post.image }}" height="400" width="800" align="middle"> {% endif %} {{ post.content|safe }}
+                <h2>Comments({{ count }})</h3>
+                {% if count > 0 %}
+                <hr>
+                {% endif %}
+                <ul class="comment-list">
+                    {% for comment in comments %}
+                    <li class="comment-list-item">
+                        <div class="comment">
+
+                            <div class="comment-header">
+                                <i>{{ comment.name }}</i> said on {{ comment.date_created.date }}: </div>
+                            <p class="comment-content">{{ comment }}</p>
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <hr>
+
+                <form action="{% url 'blog:post' post.id %}" method="POST">
+                    {% csrf_token %} {{ form|crispy }}
+                    <div class="g-recaptcha" data-sitekey="6Lf5HHYUAAAAABKA7NjE_uhS_XSYYNJTg1cXHFrL"></div>
+                    <button type="submit" class="btn-blog">Submit</button>                    
+                </form>
+            </div>
+            
+        </div>
+       
+        
+    </div>
+
+
+
+</div>
+{% endblock %}

@@ -1,0 +1,52 @@
+{% extends 'base.html' %} {% block content %}
+<div class="container-fluid">
+    <div class="row">
+
+        <div class="col-md-8 post-list">
+            <div class="post-list">
+                <ul class="list-group">
+                    {% for post in posts %}
+
+                    <li class="post-list-item list-group-item">
+                        <a class="" href="{% url 'blog:post' post.id %}">
+                            <h1 class="post-title">{{ post.title }}</h1>
+                        </a>                    
+                        <span class="post-span">by
+                                <i>{{ post.user_id }}</i> on {{ post.date_published.date }}</span>
+                                <br>
+                        {% if post.image %}
+                        <ul class="post-short-categories categories">
+                            {% for categorie in post.categories.all %}
+                            <li>
+                                <a href="{% url 'blog:categorie' categorie.id %}">{{ categorie.categorie }}</a>
+                            </li>
+                            {% endfor %}   
+                        </ul>
+                        <a  href="{% url 'blog:post' post.id %}"><img class="image" src="{{ post.image }}" height="400" width="800"></a>
+                        {% endif %}
+                        <br>
+                        <a href="{% url 'blog:post' post.id %}">Read more...</a>
+                    </li>
+
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-md-2">
+            <div id="categorie">
+            <h1>Categories</h1>
+                <ul class="categories">
+                    {% for categorie in categories %}
+                    <li><a href="{% url 'blog:categorie' categorie.id %}">{{ categorie.categorie }}</a></li>
+                        {% endfor %}
+                </ul>
+            </div>
+            <div id="about">
+                <h1 >About me</h1>
+                <p>Hi, I'm Boris and I like to tinker with technology.</p>
+                </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
