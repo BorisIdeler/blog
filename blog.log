@@ -1,8 +1,0 @@
-2018-11-12 20:54:21,688 - blog - INFO - Index
-2018-11-12 20:54:21,688 - blog - DEBUG - Getting all index posts
-2018-11-12 20:54:21,688 - blog - DEBUG - Getting all index categories
-2018-11-12 20:54:21,688 - blog - DEBUG - Rendering and returning index request
-2018-11-12 20:54:23,126 - blog - INFO - Categorie
-2018-11-12 20:54:23,127 - blog - DEBUG - Getting all categorie posts
-2018-11-12 20:54:23,127 - blog - DEBUG - Getting all categorie categories
-2018-11-12 20:54:23,127 - blog - DEBUG - Rendering and returning categorie request
