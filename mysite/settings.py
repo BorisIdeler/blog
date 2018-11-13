@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = Config.SECRET_KEY
 
 # Google reCaptcha key
-GOOGLE_RECAPTCHA_SECRET_KEY = Config.GOOGLE_RECAPTCHA_SECRET_KEY
+GOOGLE_RECAPTCHA_SECRET_KEY = Config.BLOG_GOOGLE_RECAPTCHA_SECRET_KEY
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = Config.DEBUG

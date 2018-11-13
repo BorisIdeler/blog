@@ -319,7 +319,7 @@ i {
 
 .post {
   margin-top: 23px;
-  margin-left: 140px;
+  margin-left: 140px;  
 }
 
 .post p {
@@ -356,9 +356,15 @@ i {
   color: #2B7A78;
 }
 
+.post-sidebar {
+  margin-left: 70px;
+}
+
 #question-submitted {
   position: fixed;
   width: 400px;
   left: 50%;
+  top: 50%;
+  text-align: center;
   margin-left: -200px;
 }

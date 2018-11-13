@@ -1,0 +1,1105 @@
+2018-11-12 21:02:29,453 - blog.views - INFO - Contact
+2018-11-12 21:02:29,453 - blog.views - DEBUG - Checking contact request method
+2018-11-12 21:02:29,454 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-12 21:02:29,454 - blog.views - DEBUG - Returning contact form
+2018-11-12 21:02:47,180 - blog.views - INFO - Contact
+2018-11-12 21:02:47,181 - blog.views - DEBUG - Checking contact request method
+2018-11-12 21:02:47,181 - blog.views - DEBUG - Contact request method is POST
+2018-11-12 21:02:47,181 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-12 21:02:47,184 - blog.views - DEBUG - Contact form is valid
+2018-11-12 21:02:47,184 - blog.views - DEBUG - Validating contact captcha
+2018-11-12 21:02:47,640 - blog.views - ERROR - Contact form captcha is not valid
+2018-11-12 21:02:47,640 - blog.views - DEBUG - Returning contact form
+2018-11-12 21:03:50,813 - blog.views - INFO - Index
+2018-11-12 21:03:50,815 - blog.views - DEBUG - Getting all index posts
+2018-11-12 21:03:50,815 - blog.views - DEBUG - Getting all index categories
+2018-11-12 21:03:50,815 - blog.views - DEBUG - Rendering and returning index request
+2018-11-12 21:03:52,593 - blog.views - INFO - Index
+2018-11-12 21:03:52,597 - blog.views - DEBUG - Getting all index posts
+2018-11-12 21:03:52,598 - blog.views - DEBUG - Getting all index categories
+2018-11-12 21:03:52,598 - blog.views - DEBUG - Rendering and returning index request
+2018-11-12 21:03:54,078 - blog.views - INFO - Categorie
+2018-11-12 21:03:54,079 - blog.views - DEBUG - Getting all categorie posts
+2018-11-12 21:03:54,079 - blog.views - DEBUG - Getting all categorie categories
+2018-11-12 21:03:54,079 - blog.views - DEBUG - Rendering and returning categorie request
+2018-11-12 21:06:50,107 - blog.views - DEBUG - Getting all index posts
+2018-11-12 21:06:50,107 - blog.views - DEBUG - Getting all index categories
+2018-11-12 21:06:50,108 - blog.views - DEBUG - Rendering and returning index request
+2018-11-12 21:06:58,544 - blog.views - DEBUG - Getting all index posts
+2018-11-12 21:06:58,545 - blog.views - DEBUG - Getting all index categories
+2018-11-12 21:06:58,545 - blog.views - DEBUG - Rendering and returning index request
+2018-11-12 21:07:20,551 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-12 21:07:20,551 - blog.views - DEBUG - Getting all index posts
+2018-11-12 21:07:20,551 - blog.views - DEBUG - Getting all index categories
+2018-11-12 21:07:20,551 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 17:12:39,590 - blog.views - INFO - Contact
+2018-11-13 17:12:39,592 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:12:39,592 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:12:39,593 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:12:48,703 - blog.views - INFO - Contact
+2018-11-13 17:12:48,703 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:12:48,703 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 17:12:48,704 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 17:12:48,704 - blog.views - DEBUG - Contact form is valid
+2018-11-13 17:12:48,704 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 17:12:48,839 - blog.views - ERROR - Contact form captcha is not valid
+2018-11-13 17:12:48,839 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:16:48,938 - blog.views - INFO - Contact
+2018-11-13 17:16:48,938 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:16:48,938 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:16:48,938 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:16:57,297 - blog.views - INFO - Contact
+2018-11-13 17:16:57,297 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:16:57,297 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 17:16:57,297 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 17:16:57,300 - blog.views - DEBUG - Contact form is valid
+2018-11-13 17:16:57,300 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 17:16:57,460 - blog.views - ERROR - Contact form captcha is not valid
+2018-11-13 17:16:57,461 - blog.views - ERROR - {'success': False, 'error-codes': ['invalid-input-secret']}
+2018-11-13 17:16:57,461 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:43:18,661 - blog.views - INFO - Contact
+2018-11-13 17:43:18,662 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:43:18,662 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 17:43:18,662 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 17:43:18,665 - blog.views - DEBUG - Contact form is valid
+2018-11-13 17:43:18,665 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 17:43:18,840 - blog.views - ERROR - Contact form captcha is not valid
+2018-11-13 17:43:18,840 - blog.views - ERROR - {'success': False, 'error-codes': ['invalid-input-secret']}
+2018-11-13 17:43:18,840 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:47:31,740 - blog.views - INFO - Contact
+2018-11-13 17:47:31,741 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:47:31,741 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 17:47:31,741 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 17:47:31,744 - blog.views - DEBUG - Contact form is valid
+2018-11-13 17:47:31,744 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 17:47:31,945 - blog.views - ERROR - Contact form captcha is not valid
+2018-11-13 17:47:31,945 - blog.views - ERROR - {'success': False, 'error-codes': ['invalid-input-secret']}
+2018-11-13 17:47:31,945 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:47:55,124 - blog.views - INFO - Contact
+2018-11-13 17:47:55,125 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:47:55,125 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 17:47:55,126 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 17:47:55,126 - blog.views - DEBUG - Contact form is valid
+2018-11-13 17:47:55,127 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 17:47:55,402 - blog.views - ERROR - Contact form captcha is not valid
+2018-11-13 17:47:55,403 - blog.views - ERROR - {'success': False, 'error-codes': ['invalid-input-secret']}
+2018-11-13 17:47:55,403 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:47:58,273 - blog.views - INFO - Contact
+2018-11-13 17:47:58,274 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:47:58,274 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 17:47:58,274 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 17:47:58,274 - blog.views - DEBUG - Contact form is valid
+2018-11-13 17:47:58,274 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 17:47:58,380 - blog.views - ERROR - Contact form captcha is not valid
+2018-11-13 17:47:58,381 - blog.views - ERROR - {'success': False, 'error-codes': ['invalid-input-secret']}
+2018-11-13 17:47:58,381 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:00,872 - blog.views - INFO - Contact
+2018-11-13 17:48:00,872 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:00,872 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 17:48:00,873 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 17:48:00,873 - blog.views - DEBUG - Contact form is valid
+2018-11-13 17:48:00,873 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 17:48:01,022 - blog.views - ERROR - Contact form captcha is not valid
+2018-11-13 17:48:01,023 - blog.views - ERROR - {'success': False, 'error-codes': ['invalid-input-secret']}
+2018-11-13 17:48:01,023 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:02,132 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 17:48:02,132 - blog.views - DEBUG - Getting all index posts
+2018-11-13 17:48:02,133 - blog.views - DEBUG - Getting all index categories
+2018-11-13 17:48:02,133 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 17:48:03,136 - blog.views - INFO - Contact
+2018-11-13 17:48:03,136 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:03,136 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:03,137 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:05,335 - blog.views - INFO - Contact
+2018-11-13 17:48:05,335 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:05,335 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:05,335 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:05,962 - blog.views - INFO - Contact
+2018-11-13 17:48:05,962 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:05,962 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:05,962 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:07,824 - blog.views - INFO - Contact
+2018-11-13 17:48:07,824 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:07,825 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:07,825 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:08,651 - blog.views - INFO - Contact
+2018-11-13 17:48:08,651 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:08,651 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:08,651 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:09,395 - blog.views - INFO - Contact
+2018-11-13 17:48:09,395 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:09,395 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:09,395 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:10,372 - blog.views - INFO - Contact
+2018-11-13 17:48:10,373 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:10,373 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:10,373 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:11,533 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 17:48:11,534 - blog.views - DEBUG - Getting all index posts
+2018-11-13 17:48:11,534 - blog.views - DEBUG - Getting all index categories
+2018-11-13 17:48:11,534 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 17:48:14,656 - blog.views - INFO - Contact
+2018-11-13 17:48:14,656 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:14,656 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:14,656 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:15,563 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 17:48:15,563 - blog.views - DEBUG - Getting all index posts
+2018-11-13 17:48:15,564 - blog.views - DEBUG - Getting all index categories
+2018-11-13 17:48:15,564 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 17:48:30,716 - blog.views - INFO - Contact
+2018-11-13 17:48:30,716 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:30,716 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:30,717 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:32,931 - blog.views - INFO - Contact
+2018-11-13 17:48:32,931 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:32,932 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:32,932 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:33,677 - blog.views - INFO - Contact
+2018-11-13 17:48:33,677 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:33,677 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:33,678 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:34,962 - blog.views - INFO - Contact
+2018-11-13 17:48:34,962 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:34,962 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:34,962 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:35,639 - blog.views - INFO - Contact
+2018-11-13 17:48:35,639 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:35,640 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:35,640 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:36,238 - blog.views - INFO - Contact
+2018-11-13 17:48:36,238 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:36,238 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:36,238 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:36,999 - blog.views - INFO - Contact
+2018-11-13 17:48:36,999 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:36,999 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:36,999 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:37,572 - blog.views - INFO - Contact
+2018-11-13 17:48:37,573 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:37,573 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:37,573 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:57,423 - blog.views - INFO - Contact
+2018-11-13 17:48:57,423 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:57,424 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:57,424 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:48:57,992 - blog.views - INFO - Contact
+2018-11-13 17:48:57,992 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:48:57,992 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:48:57,992 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:49:05,706 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 17:49:05,707 - blog.views - DEBUG - Getting all index posts
+2018-11-13 17:49:05,707 - blog.views - DEBUG - Getting all index categories
+2018-11-13 17:49:05,707 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 17:49:06,955 - blog.views - INFO - Contact
+2018-11-13 17:49:06,956 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:49:06,956 - blog.views - DEBUG - Contact request method is not POST. 
+2018-11-13 17:49:06,956 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:49:09,158 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 17:49:09,158 - blog.views - DEBUG - Getting all index posts
+2018-11-13 17:49:09,158 - blog.views - DEBUG - Getting all index categories
+2018-11-13 17:49:09,158 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 17:50:01,007 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 17:50:01,007 - blog.views - DEBUG - Getting all index posts
+2018-11-13 17:50:01,007 - blog.views - DEBUG - Getting all index categories
+2018-11-13 17:50:01,007 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 17:50:10,086 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 17:50:10,086 - blog.views - DEBUG - Getting all index posts
+2018-11-13 17:50:10,086 - blog.views - DEBUG - Getting all index categories
+2018-11-13 17:50:10,086 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 17:50:11,289 - blog.views - INFO - Categorie
+2018-11-13 17:50:11,289 - blog.views - DEBUG - Getting all categorie posts
+2018-11-13 17:50:11,290 - blog.views - DEBUG - Getting all categorie categories
+2018-11-13 17:50:11,290 - blog.views - DEBUG - Rendering and returning categorie request
+2018-11-13 17:55:40,940 - blog.views - INFO - <WSGIRequest: GET '/blog/3/post/'>
+2018-11-13 17:55:40,940 - blog.views - INFO - Post request
+2018-11-13 17:55:40,940 - blog.views - DEBUG - Getting post 3
+2018-11-13 17:55:40,948 - blog.views - DEBUG - Getting all comments in 3
+2018-11-13 17:55:40,950 - blog.views - DEBUG - Getting post request method
+2018-11-13 17:55:40,950 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 17:55:49,300 - blog.views - INFO - <WSGIRequest: POST '/blog/3/post/'>
+2018-11-13 17:55:49,300 - blog.views - INFO - Post request
+2018-11-13 17:55:49,300 - blog.views - DEBUG - Getting post 3
+2018-11-13 17:55:49,307 - blog.views - DEBUG - Getting all comments in 3
+2018-11-13 17:55:49,309 - blog.views - DEBUG - Getting post request method
+2018-11-13 17:55:49,309 - blog.views - DEBUG - Request method is POST
+2018-11-13 17:55:49,312 - blog.views - DEBUG - Post request form is valid
+2018-11-13 17:55:49,312 - blog.views - DEBUG - Validating post captcha
+2018-11-13 17:55:49,461 - blog.views - ERROR - Post captcha is not valid
+2018-11-13 17:57:21,778 - blog.views - INFO - <WSGIRequest: POST '/blog/3/post/'>
+2018-11-13 17:57:21,778 - blog.views - INFO - Post request
+2018-11-13 17:57:21,778 - blog.views - DEBUG - Getting post 3
+2018-11-13 17:57:21,785 - blog.views - DEBUG - Getting all comments in 3
+2018-11-13 17:57:21,787 - blog.views - DEBUG - Getting post request method
+2018-11-13 17:57:21,787 - blog.views - DEBUG - Request method is POST
+2018-11-13 17:57:21,790 - blog.views - DEBUG - Post request form is valid
+2018-11-13 17:57:21,790 - blog.views - DEBUG - Validating post captcha
+2018-11-13 17:57:46,581 - blog.views - INFO - <WSGIRequest: POST '/blog/3/post/'>
+2018-11-13 17:57:46,581 - blog.views - INFO - Post request
+2018-11-13 17:57:46,581 - blog.views - DEBUG - Getting post 3
+2018-11-13 17:57:46,589 - blog.views - DEBUG - Getting all comments in 3
+2018-11-13 17:57:46,590 - blog.views - DEBUG - Getting post request method
+2018-11-13 17:57:46,591 - blog.views - DEBUG - Request method is POST
+2018-11-13 17:57:46,594 - blog.views - DEBUG - Post request form is valid
+2018-11-13 17:57:46,594 - blog.views - DEBUG - Validating post captcha
+2018-11-13 17:57:46,990 - blog.views - ERROR - Post captcha is not valid
+2018-11-13 17:57:51,240 - blog.views - INFO - <WSGIRequest: POST '/blog/3/post/'>
+2018-11-13 17:57:51,244 - blog.views - INFO - Post request
+2018-11-13 17:57:51,244 - blog.views - DEBUG - Getting post 3
+2018-11-13 17:57:51,252 - blog.views - DEBUG - Getting all comments in 3
+2018-11-13 17:57:51,253 - blog.views - DEBUG - Getting post request method
+2018-11-13 17:57:51,253 - blog.views - DEBUG - Request method is POST
+2018-11-13 17:57:51,254 - blog.views - DEBUG - Post request form is valid
+2018-11-13 17:57:51,254 - blog.views - DEBUG - Validating post captcha
+2018-11-13 17:57:51,345 - blog.views - ERROR - Post captcha is not valid
+2018-11-13 17:57:55,107 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 17:57:55,107 - blog.views - INFO - Contact
+2018-11-13 17:57:55,108 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:57:55,108 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 17:57:55,108 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:57:57,277 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 17:57:57,278 - blog.views - INFO - Contact
+2018-11-13 17:57:57,278 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:57:57,278 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 17:57:57,279 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:57:58,176 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 17:57:58,176 - blog.views - INFO - Contact
+2018-11-13 17:57:58,176 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:57:58,176 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 17:57:58,177 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:57:59,026 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 17:57:59,026 - blog.views - INFO - Contact
+2018-11-13 17:57:59,026 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:57:59,026 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 17:57:59,026 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:58:00,958 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 17:58:00,958 - blog.views - INFO - Contact
+2018-11-13 17:58:00,959 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:58:00,959 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 17:58:00,959 - blog.views - DEBUG - Returning contact form
+2018-11-13 17:58:01,843 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 17:58:01,843 - blog.views - INFO - Contact
+2018-11-13 17:58:01,843 - blog.views - DEBUG - Checking contact request method
+2018-11-13 17:58:01,843 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 17:58:01,844 - blog.views - DEBUG - Returning contact form
+2018-11-13 18:00:29,750 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 18:00:29,751 - blog.views - INFO - Contact
+2018-11-13 18:00:29,751 - blog.views - DEBUG - Checking contact request method
+2018-11-13 18:00:29,751 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 18:00:29,751 - blog.views - DEBUG - Returning contact form
+2018-11-13 18:00:37,194 - blog.views - INFO - <WSGIRequest: POST '/blog/contact/'>
+2018-11-13 18:00:37,194 - blog.views - INFO - Contact
+2018-11-13 18:00:37,194 - blog.views - DEBUG - Checking contact request method
+2018-11-13 18:00:37,194 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 18:00:37,194 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 18:00:37,194 - blog.views - DEBUG - Contact form is valid
+2018-11-13 18:00:37,195 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 18:00:37,320 - blog.views - ERROR - Contact form captcha is not valid
+2018-11-13 18:00:37,320 - blog.views - ERROR - {'success': False, 'error-codes': ['invalid-input-secret']}
+2018-11-13 18:00:37,320 - blog.views - DEBUG - Returning contact form
+2018-11-13 18:05:09,097 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 18:05:09,097 - blog.views - INFO - Contact
+2018-11-13 18:05:09,097 - blog.views - DEBUG - Checking contact request method
+2018-11-13 18:05:09,097 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 18:05:09,098 - blog.views - DEBUG - Returning contact form
+2018-11-13 18:05:15,487 - blog.views - INFO - <WSGIRequest: POST '/blog/contact/'>
+2018-11-13 18:05:15,487 - blog.views - INFO - Contact
+2018-11-13 18:05:15,487 - blog.views - DEBUG - Checking contact request method
+2018-11-13 18:05:15,488 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 18:05:15,488 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 18:05:15,491 - blog.views - DEBUG - Contact form is valid
+2018-11-13 18:05:15,491 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 18:05:15,668 - blog.views - DEBUG - Contact captcha is valid
+2018-11-13 18:05:15,668 - blog.views - DEBUG - Cleaning and saving contact form data
+2018-11-13 18:05:15,679 - blog.views - DEBUG - Contact form data saved
+2018-11-13 18:05:15,679 - blog.views - DEBUG - Sending contact mail
+2018-11-13 18:05:16,429 - blog.views - DEBUG - Redirecting to question_submitted
+2018-11-13 18:05:16,433 - blog.views - INFO - <WSGIRequest: GET '/blog/question-submitted/'>
+2018-11-13 18:05:16,433 - blog.views - INFO - Question submitted
+2018-11-13 18:05:16,433 - blog.views - DEBUG - Rendering and returning question_submitted request
+2018-11-13 18:05:29,251 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:05:29,251 - blog.views - INFO - Index
+2018-11-13 18:05:29,251 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:05:29,251 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:05:29,251 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:06:40,802 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:06:40,802 - blog.views - INFO - Post request
+2018-11-13 18:06:40,803 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:06:40,811 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:06:40,812 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:06:40,812 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:06:52,433 - blog.views - INFO - <WSGIRequest: POST '/blog/5/post/'>
+2018-11-13 18:06:52,433 - blog.views - INFO - Post request
+2018-11-13 18:06:52,434 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:06:52,442 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:06:52,444 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:06:52,444 - blog.views - DEBUG - Request method is POST
+2018-11-13 18:06:52,444 - blog.views - DEBUG - Post request form is valid
+2018-11-13 18:06:52,444 - blog.views - DEBUG - Validating post captcha
+2018-11-13 18:06:52,605 - blog.views - DEBUG - Post captcha is valid
+2018-11-13 18:06:52,606 - blog.views - DEBUG - Cleaning post data
+2018-11-13 18:06:52,606 - blog.views - DEBUG - Saving post comment
+2018-11-13 18:06:52,610 - blog.views - DEBUG - Sending post comment mail
+2018-11-13 18:06:53,130 - blog.views - DEBUG - Rendering and returning post request
+2018-11-13 18:06:53,134 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:06:53,134 - blog.views - INFO - Post request
+2018-11-13 18:06:53,134 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:06:53,142 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:06:53,144 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:06:53,144 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:09:35,010 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 18:09:35,010 - blog.views - INFO - Contact
+2018-11-13 18:09:35,011 - blog.views - DEBUG - Checking contact request method
+2018-11-13 18:09:35,011 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 18:09:35,011 - blog.views - DEBUG - Returning contact form
+2018-11-13 18:09:52,650 - blog.views - INFO - <WSGIRequest: POST '/blog/contact/'>
+2018-11-13 18:09:52,650 - blog.views - INFO - Contact
+2018-11-13 18:09:52,650 - blog.views - DEBUG - Checking contact request method
+2018-11-13 18:09:52,650 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 18:09:52,650 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 18:09:52,653 - blog.views - DEBUG - Contact form is valid
+2018-11-13 18:09:52,653 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 18:09:52,806 - blog.views - DEBUG - Contact captcha is valid
+2018-11-13 18:09:52,806 - blog.views - DEBUG - Cleaning and saving contact form data
+2018-11-13 18:09:52,815 - blog.views - DEBUG - Contact form data saved
+2018-11-13 18:09:52,815 - blog.views - DEBUG - Sending contact mail
+2018-11-13 18:09:53,776 - blog.views - DEBUG - Redirecting to question_submitted
+2018-11-13 18:09:53,781 - blog.views - INFO - <WSGIRequest: GET '/blog/question-submitted/'>
+2018-11-13 18:09:53,781 - blog.views - INFO - Question submitted
+2018-11-13 18:09:53,781 - blog.views - DEBUG - Rendering and returning question_submitted request
+2018-11-13 18:09:59,535 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:09:59,536 - blog.views - INFO - Index
+2018-11-13 18:09:59,536 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:09:59,536 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:09:59,536 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:47:05,707 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 18:47:05,707 - blog.views - INFO - Contact
+2018-11-13 18:47:05,707 - blog.views - DEBUG - Checking contact request method
+2018-11-13 18:47:05,707 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 18:47:05,708 - blog.views - DEBUG - Returning contact form
+2018-11-13 18:47:07,030 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:47:07,030 - blog.views - INFO - Index
+2018-11-13 18:47:07,030 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:47:07,030 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:47:07,031 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:47:08,000 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:47:08,000 - blog.views - INFO - Post request
+2018-11-13 18:47:08,000 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:47:08,013 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:47:08,015 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:47:08,015 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:47:47,719 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:47:47,719 - blog.views - INFO - Post request
+2018-11-13 18:47:47,719 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:47:47,727 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:47:47,728 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:47:47,728 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:47:51,632 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:47:51,632 - blog.views - INFO - Index
+2018-11-13 18:47:51,632 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:47:51,632 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:47:51,632 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:47:52,648 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:47:52,648 - blog.views - INFO - Post request
+2018-11-13 18:47:52,648 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:47:52,656 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:47:52,658 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:47:52,658 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:48:36,151 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:48:36,151 - blog.views - INFO - Post request
+2018-11-13 18:48:36,151 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:48:36,163 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:48:36,166 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:48:36,166 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:49:09,226 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:49:09,226 - blog.views - INFO - Post request
+2018-11-13 18:49:09,226 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:49:09,237 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:49:09,239 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:49:09,239 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:49:11,881 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:49:11,881 - blog.views - INFO - Index
+2018-11-13 18:49:11,881 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:49:11,881 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:49:11,881 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:49:12,797 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:49:12,798 - blog.views - INFO - Post request
+2018-11-13 18:49:12,798 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:49:12,808 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:49:12,811 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:49:12,811 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:49:29,759 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:49:29,759 - blog.views - INFO - Post request
+2018-11-13 18:49:29,759 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:49:29,769 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:49:29,771 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:49:29,771 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:49:31,159 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:49:31,159 - blog.views - INFO - Index
+2018-11-13 18:49:31,159 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:49:31,159 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:49:31,159 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:49:32,227 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:49:32,227 - blog.views - INFO - Post request
+2018-11-13 18:49:32,227 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:49:32,238 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:49:32,240 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:49:32,241 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:49:36,597 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:49:36,597 - blog.views - INFO - Post request
+2018-11-13 18:49:36,597 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:49:36,605 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:49:36,606 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:49:36,606 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:49:38,372 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:49:38,372 - blog.views - INFO - Index
+2018-11-13 18:49:38,373 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:49:38,373 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:49:38,373 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:49:39,731 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:49:39,731 - blog.views - INFO - Post request
+2018-11-13 18:49:39,732 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:49:39,741 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:49:39,742 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:49:39,743 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:49:42,918 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:49:42,918 - blog.views - INFO - Index
+2018-11-13 18:49:42,918 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:49:42,919 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:49:42,919 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:50:35,325 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:50:35,325 - blog.views - INFO - Index
+2018-11-13 18:50:35,325 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:50:35,326 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:50:35,326 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:50:36,647 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:50:36,647 - blog.views - INFO - Post request
+2018-11-13 18:50:36,647 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:50:36,657 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:50:36,659 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:50:36,659 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:50:38,572 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 18:50:38,572 - blog.views - INFO - Contact
+2018-11-13 18:50:38,572 - blog.views - DEBUG - Checking contact request method
+2018-11-13 18:50:38,572 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 18:50:38,572 - blog.views - DEBUG - Returning contact form
+2018-11-13 18:50:45,264 - blog.views - INFO - <WSGIRequest: POST '/blog/contact/'>
+2018-11-13 18:50:45,265 - blog.views - INFO - Contact
+2018-11-13 18:50:45,265 - blog.views - DEBUG - Checking contact request method
+2018-11-13 18:50:45,265 - blog.views - DEBUG - Contact request method is POST
+2018-11-13 18:50:45,265 - blog.views - DEBUG - Checking if contact form is valid
+2018-11-13 18:50:45,265 - blog.views - DEBUG - Contact form is valid
+2018-11-13 18:50:45,265 - blog.views - DEBUG - Validating contact captcha
+2018-11-13 18:50:45,413 - blog.views - DEBUG - Contact captcha is valid
+2018-11-13 18:50:45,413 - blog.views - DEBUG - Cleaning and saving contact form data
+2018-11-13 18:50:45,435 - blog.views - DEBUG - Contact form data saved
+2018-11-13 18:50:45,435 - blog.views - DEBUG - Sending contact mail
+2018-11-13 18:50:46,229 - blog.views - DEBUG - Redirecting to question_submitted
+2018-11-13 18:50:46,233 - blog.views - INFO - <WSGIRequest: GET '/blog/question-submitted/'>
+2018-11-13 18:50:46,233 - blog.views - INFO - Question submitted
+2018-11-13 18:50:46,233 - blog.views - DEBUG - Rendering and returning question_submitted request
+2018-11-13 18:50:54,015 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:50:54,157 - blog.views - INFO - Index
+2018-11-13 18:50:54,157 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:50:54,157 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:50:54,157 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:50:55,164 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:50:55,164 - blog.views - INFO - Post request
+2018-11-13 18:50:55,164 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:50:55,173 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:50:55,174 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:50:55,174 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:51:27,777 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:51:27,777 - blog.views - INFO - Post request
+2018-11-13 18:51:27,777 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:51:27,788 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:51:27,790 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:51:27,790 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:51:42,354 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:51:42,354 - blog.views - INFO - Post request
+2018-11-13 18:51:42,354 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:51:42,361 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:51:42,363 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:51:42,363 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:51:55,128 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:51:55,128 - blog.views - INFO - Post request
+2018-11-13 18:51:55,128 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:51:55,136 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:51:55,138 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:51:55,138 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:52:05,240 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:52:05,240 - blog.views - INFO - Index
+2018-11-13 18:52:05,240 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:52:05,240 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:52:05,240 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:52:06,188 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:52:06,188 - blog.views - INFO - Post request
+2018-11-13 18:52:06,188 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:52:06,200 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:52:06,202 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:52:06,202 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:52:09,264 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:52:09,265 - blog.views - INFO - Index
+2018-11-13 18:52:09,265 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:52:09,265 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:52:09,265 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:52:49,084 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:52:49,085 - blog.views - INFO - Post request
+2018-11-13 18:52:49,085 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:52:49,093 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:52:49,095 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:52:49,095 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:52:58,601 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:52:58,601 - blog.views - INFO - Index
+2018-11-13 18:52:58,601 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:52:58,601 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:52:58,601 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:53:45,698 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:53:45,698 - blog.views - INFO - Index
+2018-11-13 18:53:45,698 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:53:45,698 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:53:45,699 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:53:46,553 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:53:46,553 - blog.views - INFO - Post request
+2018-11-13 18:53:46,553 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:53:46,562 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:53:46,563 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:53:46,564 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:53:57,538 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:53:57,539 - blog.views - INFO - Post request
+2018-11-13 18:53:57,539 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:53:57,546 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:53:57,548 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:53:57,548 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:54:16,116 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:54:16,116 - blog.views - INFO - Index
+2018-11-13 18:54:16,116 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:54:16,116 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:54:16,116 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:54:16,981 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:54:16,981 - blog.views - INFO - Post request
+2018-11-13 18:54:16,981 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:54:16,990 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:54:16,991 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:54:16,991 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:54:17,530 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:54:17,531 - blog.views - INFO - Index
+2018-11-13 18:54:17,531 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:54:17,531 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:54:17,531 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:54:18,169 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:54:18,170 - blog.views - INFO - Post request
+2018-11-13 18:54:18,170 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:54:18,178 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:54:18,180 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:54:18,180 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:54:18,645 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:54:18,645 - blog.views - INFO - Index
+2018-11-13 18:54:18,645 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:54:18,646 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:54:18,646 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:54:19,205 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:54:19,205 - blog.views - INFO - Post request
+2018-11-13 18:54:19,205 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:54:19,214 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:54:19,215 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:54:19,215 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:54:19,707 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:54:19,708 - blog.views - INFO - Index
+2018-11-13 18:54:19,708 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:54:19,708 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:54:19,708 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:54:20,711 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:54:20,712 - blog.views - INFO - Post request
+2018-11-13 18:54:20,712 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:54:20,720 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:54:20,721 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:54:20,721 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:54:21,667 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:54:21,667 - blog.views - INFO - Index
+2018-11-13 18:54:21,667 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:54:21,668 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:54:21,668 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:54:23,082 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:54:23,082 - blog.views - INFO - Post request
+2018-11-13 18:54:23,082 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:54:23,091 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:54:23,093 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:54:23,093 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:54:26,307 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:54:26,307 - blog.views - INFO - Index
+2018-11-13 18:54:26,307 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:54:26,308 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:54:26,308 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:54:27,866 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:54:27,866 - blog.views - INFO - Post request
+2018-11-13 18:54:27,866 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:54:27,874 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:54:27,875 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:54:27,876 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:54:29,227 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:54:29,227 - blog.views - INFO - Index
+2018-11-13 18:54:29,227 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:54:29,228 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:54:29,228 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:54:29,898 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:54:29,899 - blog.views - INFO - Post request
+2018-11-13 18:54:29,899 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:54:29,907 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:54:29,908 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:54:29,908 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:55:50,205 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:55:50,205 - blog.views - INFO - Post request
+2018-11-13 18:55:50,205 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:55:50,213 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:55:50,215 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:55:50,215 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:55:51,796 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:55:51,796 - blog.views - INFO - Index
+2018-11-13 18:55:51,796 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:55:51,797 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:55:51,797 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:55:52,634 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:55:52,635 - blog.views - INFO - Post request
+2018-11-13 18:55:52,635 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:55:52,643 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:55:52,645 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:55:52,645 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:56:14,029 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:56:14,029 - blog.views - INFO - Post request
+2018-11-13 18:56:14,029 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:56:14,037 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:56:14,039 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:56:14,039 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:56:18,881 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:56:18,881 - blog.views - INFO - Index
+2018-11-13 18:56:18,881 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:56:18,881 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:56:18,882 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:56:19,554 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:56:19,554 - blog.views - INFO - Post request
+2018-11-13 18:56:19,554 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:56:19,562 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:56:19,564 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:56:19,564 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:56:29,150 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:56:29,150 - blog.views - INFO - Post request
+2018-11-13 18:56:29,150 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:56:29,158 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:56:29,160 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:56:29,160 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:56:34,663 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:56:34,664 - blog.views - INFO - Index
+2018-11-13 18:56:34,664 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:56:34,664 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:56:34,664 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:56:36,511 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:56:36,512 - blog.views - INFO - Post request
+2018-11-13 18:56:36,512 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:56:36,520 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:56:36,521 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:56:36,521 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:56:37,827 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:56:37,827 - blog.views - INFO - Index
+2018-11-13 18:56:37,827 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:56:37,827 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:56:37,827 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:56:39,367 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:56:39,367 - blog.views - INFO - Post request
+2018-11-13 18:56:39,368 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:56:39,375 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:56:39,377 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:56:39,377 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:57:19,114 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:57:19,115 - blog.views - INFO - Index
+2018-11-13 18:57:19,115 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:57:19,115 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:57:19,115 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:57:35,514 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:57:35,514 - blog.views - INFO - Post request
+2018-11-13 18:57:35,514 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:57:35,522 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:57:35,524 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:57:35,524 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:57:42,194 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:57:42,194 - blog.views - INFO - Index
+2018-11-13 18:57:42,194 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:57:42,194 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:57:42,194 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:57:46,739 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:57:46,740 - blog.views - INFO - Post request
+2018-11-13 18:57:46,740 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:57:46,748 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:57:46,750 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:57:46,750 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:58:26,525 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:58:26,525 - blog.views - INFO - Post request
+2018-11-13 18:58:26,525 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:58:26,532 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:58:26,534 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:58:26,534 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:58:30,308 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:58:30,308 - blog.views - INFO - Index
+2018-11-13 18:58:30,308 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:58:30,309 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:58:30,309 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:58:31,262 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:58:31,262 - blog.views - INFO - Post request
+2018-11-13 18:58:31,262 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:58:31,270 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:58:31,272 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:58:31,272 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:58:32,577 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:58:32,577 - blog.views - INFO - Index
+2018-11-13 18:58:32,577 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:58:32,577 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:58:32,577 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:58:33,925 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:58:33,925 - blog.views - INFO - Post request
+2018-11-13 18:58:33,925 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:58:33,933 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:58:33,935 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:58:33,935 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:58:34,678 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:58:34,678 - blog.views - INFO - Index
+2018-11-13 18:58:34,678 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:58:34,678 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:58:34,678 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:58:35,326 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:58:35,326 - blog.views - INFO - Post request
+2018-11-13 18:58:35,327 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:58:35,335 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:58:35,336 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:58:35,336 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:58:35,845 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:58:35,845 - blog.views - INFO - Index
+2018-11-13 18:58:35,845 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:58:35,845 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:58:35,845 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:58:36,266 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:58:36,266 - blog.views - INFO - Post request
+2018-11-13 18:58:36,266 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:58:36,275 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:58:36,276 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:58:36,276 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:58:37,092 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:58:37,092 - blog.views - INFO - Index
+2018-11-13 18:58:37,092 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:58:37,092 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:58:37,093 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:58:37,877 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:58:37,878 - blog.views - INFO - Post request
+2018-11-13 18:58:37,878 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:58:37,886 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:58:37,888 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:58:37,888 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:58:38,482 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:58:38,482 - blog.views - INFO - Index
+2018-11-13 18:58:38,482 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:58:38,482 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:58:38,483 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:58:39,155 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:58:39,155 - blog.views - INFO - Post request
+2018-11-13 18:58:39,155 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:58:39,163 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:58:39,165 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:58:39,165 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:59:41,235 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:59:41,235 - blog.views - INFO - Post request
+2018-11-13 18:59:41,235 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:59:41,243 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:59:41,245 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:59:41,245 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:59:44,865 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:59:44,865 - blog.views - INFO - Index
+2018-11-13 18:59:44,865 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:59:44,866 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:59:44,866 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:59:45,937 - blog.views - INFO - <WSGIRequest: GET '/blog/4/post/'>
+2018-11-13 18:59:45,939 - blog.views - INFO - Post request
+2018-11-13 18:59:45,939 - blog.views - DEBUG - Getting post 4
+2018-11-13 18:59:45,947 - blog.views - DEBUG - Getting all comments in 4
+2018-11-13 18:59:45,948 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:59:45,948 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:59:47,541 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:59:47,541 - blog.views - INFO - Index
+2018-11-13 18:59:47,541 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:59:47,542 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:59:47,542 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:59:48,424 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:59:48,425 - blog.views - INFO - Post request
+2018-11-13 18:59:48,425 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:59:48,432 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:59:48,434 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:59:48,434 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:59:49,243 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:59:49,244 - blog.views - INFO - Index
+2018-11-13 18:59:49,244 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:59:49,244 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:59:49,244 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:59:50,385 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:59:50,385 - blog.views - INFO - Post request
+2018-11-13 18:59:50,385 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:59:50,393 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:59:50,395 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:59:50,395 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:59:51,184 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:59:51,184 - blog.views - INFO - Index
+2018-11-13 18:59:51,184 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:59:51,184 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:59:51,184 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:59:52,099 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:59:52,099 - blog.views - INFO - Post request
+2018-11-13 18:59:52,099 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:59:52,107 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:59:52,108 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:59:52,108 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:59:53,078 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:59:53,078 - blog.views - INFO - Index
+2018-11-13 18:59:53,078 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:59:53,078 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:59:53,078 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:59:53,896 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:59:53,897 - blog.views - INFO - Post request
+2018-11-13 18:59:53,897 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:59:53,904 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:59:53,906 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:59:53,906 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:59:54,497 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:59:54,497 - blog.views - INFO - Index
+2018-11-13 18:59:54,497 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:59:54,498 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:59:54,498 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:59:55,047 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:59:55,047 - blog.views - INFO - Post request
+2018-11-13 18:59:55,047 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:59:55,055 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:59:55,056 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:59:55,056 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:59:55,632 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:59:55,632 - blog.views - INFO - Index
+2018-11-13 18:59:55,632 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:59:55,632 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:59:55,633 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 18:59:57,124 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 18:59:57,125 - blog.views - INFO - Post request
+2018-11-13 18:59:57,125 - blog.views - DEBUG - Getting post 5
+2018-11-13 18:59:57,133 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 18:59:57,134 - blog.views - DEBUG - Getting post request method
+2018-11-13 18:59:57,134 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 18:59:59,346 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 18:59:59,347 - blog.views - INFO - Index
+2018-11-13 18:59:59,347 - blog.views - DEBUG - Getting all index posts
+2018-11-13 18:59:59,347 - blog.views - DEBUG - Getting all index categories
+2018-11-13 18:59:59,347 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:00:00,392 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:00:00,392 - blog.views - INFO - Post request
+2018-11-13 19:00:00,392 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:00:00,401 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:00:00,402 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:00:00,402 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:00:30,555 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:00:30,556 - blog.views - INFO - Index
+2018-11-13 19:00:30,556 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:00:30,556 - blog.views - DEBUG - Getting all index categories
+2018-11-13 19:00:30,556 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:00:41,010 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 19:00:41,010 - blog.views - INFO - Contact
+2018-11-13 19:00:41,011 - blog.views - DEBUG - Checking contact request method
+2018-11-13 19:00:41,011 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 19:00:41,011 - blog.views - DEBUG - Returning contact form
+2018-11-13 19:00:42,510 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:00:42,510 - blog.views - INFO - Index
+2018-11-13 19:00:42,510 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:00:42,510 - blog.views - DEBUG - Getting all index categories
+2018-11-13 19:00:42,510 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:00:43,320 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:00:43,320 - blog.views - INFO - Post request
+2018-11-13 19:00:43,320 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:00:43,329 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:00:43,330 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:00:43,330 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:00:44,058 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:00:44,058 - blog.views - INFO - Index
+2018-11-13 19:00:44,058 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:00:44,058 - blog.views - DEBUG - Getting all index categories
+2018-11-13 19:00:44,058 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:00:44,560 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:00:44,560 - blog.views - INFO - Post request
+2018-11-13 19:00:44,561 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:00:44,569 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:00:44,570 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:00:44,571 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:00:45,487 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:00:45,489 - blog.views - INFO - Index
+2018-11-13 19:00:45,489 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:00:45,489 - blog.views - DEBUG - Getting all index categories
+2018-11-13 19:00:45,490 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:01:02,694 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:01:02,694 - blog.views - INFO - Post request
+2018-11-13 19:01:02,695 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:01:02,703 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:01:02,704 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:01:02,705 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:01:36,641 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:01:36,642 - blog.views - INFO - Post request
+2018-11-13 19:01:36,642 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:01:36,650 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:01:36,651 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:01:36,651 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:01:38,536 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:01:38,536 - blog.views - INFO - Index
+2018-11-13 19:01:38,536 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:01:38,536 - blog.views - DEBUG - Getting all index categories
+2018-11-13 19:01:38,536 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:01:39,338 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:01:39,338 - blog.views - INFO - Post request
+2018-11-13 19:01:39,338 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:01:39,347 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:01:39,348 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:01:39,349 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:01:43,267 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:01:43,267 - blog.views - INFO - Post request
+2018-11-13 19:01:43,267 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:01:43,275 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:01:43,277 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:01:43,277 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:01:44,511 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:01:44,512 - blog.views - INFO - Index
+2018-11-13 19:01:44,512 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:01:44,512 - blog.views - DEBUG - Getting all index categories
+2018-11-13 19:01:44,512 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:01:45,869 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:01:45,872 - blog.views - INFO - Post request
+2018-11-13 19:01:45,872 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:01:45,880 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:01:45,882 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:01:45,882 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:02:37,982 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:02:37,982 - blog.views - INFO - Post request
+2018-11-13 19:02:37,982 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:02:37,990 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:02:37,991 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:02:37,992 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:02:39,935 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:02:39,935 - blog.views - INFO - Index
+2018-11-13 19:02:39,935 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:02:39,935 - blog.views - DEBUG - Getting all index categories
+2018-11-13 19:02:39,936 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:02:40,557 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:02:40,557 - blog.views - INFO - Post request
+2018-11-13 19:02:40,558 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:02:40,565 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:02:40,567 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:02:40,567 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:03:30,422 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:03:30,423 - blog.views - INFO - Post request
+2018-11-13 19:03:30,423 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:03:30,431 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:03:30,432 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:03:30,432 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:03:58,819 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:03:58,819 - blog.views - INFO - Post request
+2018-11-13 19:03:58,819 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:03:58,827 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:03:58,828 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:03:58,828 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:04:01,185 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:04:01,185 - blog.views - INFO - Index
+2018-11-13 19:04:01,185 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:04:01,185 - blog.views - DEBUG - Getting all index categories
+2018-11-13 19:04:01,185 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:04:01,915 - blog.views - INFO - <WSGIRequest: GET '/blog/contact/'>
+2018-11-13 19:04:01,915 - blog.views - INFO - Contact
+2018-11-13 19:04:01,915 - blog.views - DEBUG - Checking contact request method
+2018-11-13 19:04:01,915 - blog.views - DEBUG - Contact request method is not POST.
+2018-11-13 19:04:01,916 - blog.views - DEBUG - Returning contact form
+2018-11-13 19:04:02,747 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:04:02,748 - blog.views - INFO - Index
+2018-11-13 19:04:02,748 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:04:02,748 - blog.views - DEBUG - Getting all index categories
+2018-11-13 19:04:02,748 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:04:13,613 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:04:13,613 - blog.views - INFO - Index
+2018-11-13 19:04:13,613 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:04:13,614 - blog.views - DEBUG - Getting all index categories
+2018-11-13 19:04:13,614 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:05:35,971 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:05:35,971 - blog.views - INFO - Index
+2018-11-13 19:05:35,971 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:05:35,971 - blog.views - DEBUG - Getting all categories
+2018-11-13 19:05:35,971 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:05:36,835 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:05:36,835 - blog.views - INFO - Post request
+2018-11-13 19:05:36,836 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:05:36,843 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:05:36,845 - blog.views - DEBUG - Getting all categories
+2018-11-13 19:05:36,845 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:05:36,845 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:05:39,485 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:05:39,485 - blog.views - INFO - Index
+2018-11-13 19:05:39,485 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:05:39,485 - blog.views - DEBUG - Getting all categories
+2018-11-13 19:05:39,485 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:05:40,457 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:05:40,457 - blog.views - INFO - Post request
+2018-11-13 19:05:40,457 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:05:40,466 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:05:40,467 - blog.views - DEBUG - Getting all categories
+2018-11-13 19:05:40,467 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:05:40,468 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:05:41,531 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:05:41,531 - blog.views - INFO - Index
+2018-11-13 19:05:41,531 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:05:41,531 - blog.views - DEBUG - Getting all categories
+2018-11-13 19:05:41,531 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:05:51,424 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:05:51,424 - blog.views - INFO - Post request
+2018-11-13 19:05:51,425 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:05:51,433 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:05:51,435 - blog.views - DEBUG - Getting all categories
+2018-11-13 19:05:51,436 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:05:51,436 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:05:57,046 - blog.views - INFO - <WSGIRequest: GET '/blog/'>
+2018-11-13 19:05:57,046 - blog.views - INFO - Index
+2018-11-13 19:05:57,046 - blog.views - DEBUG - Getting all index posts
+2018-11-13 19:05:57,046 - blog.views - DEBUG - Getting all categories
+2018-11-13 19:05:57,046 - blog.views - DEBUG - Rendering and returning index request
+2018-11-13 19:05:58,548 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:05:58,549 - blog.views - INFO - Post request
+2018-11-13 19:05:58,549 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:05:58,558 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:05:58,559 - blog.views - DEBUG - Getting all categories
+2018-11-13 19:05:58,559 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:05:58,559 - blog.views - DEBUG - Post request method is not POST.
+2018-11-13 19:06:01,412 - blog.views - INFO - <WSGIRequest: GET '/blog/1/categorie/'>
+2018-11-13 19:06:01,412 - blog.views - INFO - Categorie
+2018-11-13 19:06:01,412 - blog.views - DEBUG - Getting all posts in 1
+2018-11-13 19:06:01,413 - blog.views - DEBUG - Getting all categorie categories
+2018-11-13 19:06:01,413 - blog.views - DEBUG - Rendering and returning categorie request
+2018-11-13 19:06:03,454 - blog.views - INFO - <WSGIRequest: GET '/blog/2/categorie/'>
+2018-11-13 19:06:03,454 - blog.views - INFO - Categorie
+2018-11-13 19:06:03,454 - blog.views - DEBUG - Getting all posts in 2
+2018-11-13 19:06:03,454 - blog.views - DEBUG - Getting all categorie categories
+2018-11-13 19:06:03,455 - blog.views - DEBUG - Rendering and returning categorie request
+2018-11-13 19:06:04,568 - blog.views - INFO - <WSGIRequest: GET '/blog/1/categorie/'>
+2018-11-13 19:06:04,568 - blog.views - INFO - Categorie
+2018-11-13 19:06:04,568 - blog.views - DEBUG - Getting all posts in 1
+2018-11-13 19:06:04,569 - blog.views - DEBUG - Getting all categorie categories
+2018-11-13 19:06:04,569 - blog.views - DEBUG - Rendering and returning categorie request
+2018-11-13 19:06:05,442 - blog.views - INFO - <WSGIRequest: GET '/blog/4/categorie/'>
+2018-11-13 19:06:05,442 - blog.views - INFO - Categorie
+2018-11-13 19:06:05,442 - blog.views - DEBUG - Getting all posts in 4
+2018-11-13 19:06:05,443 - blog.views - DEBUG - Getting all categorie categories
+2018-11-13 19:06:05,443 - blog.views - DEBUG - Rendering and returning categorie request
+2018-11-13 19:06:08,756 - blog.views - INFO - <WSGIRequest: GET '/blog/5/categorie/'>
+2018-11-13 19:06:08,756 - blog.views - INFO - Categorie
+2018-11-13 19:06:08,756 - blog.views - DEBUG - Getting all posts in 5
+2018-11-13 19:06:08,757 - blog.views - DEBUG - Getting all categorie categories
+2018-11-13 19:06:08,757 - blog.views - DEBUG - Rendering and returning categorie request
+2018-11-13 19:06:10,879 - blog.views - INFO - <WSGIRequest: GET '/blog/5/post/'>
+2018-11-13 19:06:10,880 - blog.views - INFO - Post request
+2018-11-13 19:06:10,880 - blog.views - DEBUG - Getting post 5
+2018-11-13 19:06:10,887 - blog.views - DEBUG - Getting all comments in 5
+2018-11-13 19:06:10,889 - blog.views - DEBUG - Getting all categories
+2018-11-13 19:06:10,889 - blog.views - DEBUG - Getting post request method
+2018-11-13 19:06:10,889 - blog.views - DEBUG - Post request method is not POST.

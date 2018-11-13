@@ -7,7 +7,7 @@ class Config:
     SECRET_KEY = os.environ.get('BLOG_SECRET_KEY') or ''
 
     # Recaptcha key
-    GOOGLE_RECAPTCHA_SECRET_KEY = os.environ.get(
+    BLOG_GOOGLE_RECAPTCHA_SECRET_KEY = os.environ.get(
         'BLOG_GOOGLE_RECAPTCHA_SECRET_KEY') or ''
 
     # Debug
@@ -20,5 +20,6 @@ class Config:
     BLOG_DB_USER = os.environ.get('BLOG_DB_USER') or ''
     BLOG_DB_PASSWORD = os.environ.get('BLOG_DB_PASSWORD') or ''
 
-    # Celery
+    # Redis
     BLOG_REDIS_URL = os.environ.get('BLOG_REDIS_URL') or ''
+    BLOG_REDIS_PASSWORD = os.environ.get('BLOG_REDIS_PASSWORD') or ''

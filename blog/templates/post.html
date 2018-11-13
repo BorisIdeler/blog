@@ -1,7 +1,6 @@
 {% extends 'base.html' %} {% load crispy_forms_tags %} {% block content %}
 
 <div class="container-fluid">
-
     <div class="row">
         <div class="col-md-8">
             <div class="post">
@@ -10,44 +9,57 @@
                     <i>{{ post.user_id }}</i> on {{ post.date_published.date }}</span>
                 {% if post.image %}
                 <ul class="post-short-categories categories">
-                        {% for categorie in post.categories.all %}
-                        <li>
-                            <a href="{% url 'blog:categorie' categorie.id %}">{{ categorie.categorie }}</a>
-                        </li>
-                        {% endfor %}   
-                    </ul>
-                <img src="{{ post.image }}" height="400" width="800" align="middle"> {% endif %} {{ post.content|safe }}
-                <h2>Comments({{ count }})</h3>
-                {% if count > 0 %}
-                <hr>
-                {% endif %}
-                <ul class="comment-list">
-                    {% for comment in comments %}
-                    <li class="comment-list-item">
-                        <div class="comment">
-
-                            <div class="comment-header">
-                                <i>{{ comment.name }}</i> said on {{ comment.date_created.date }}: </div>
-                            <p class="comment-content">{{ comment }}</p>
-                        </div>
+                    {% for categorie in post.categories.all %}
+                    <li>
+                        <a href="{% url 'blog:categorie' categorie.id %}">{{ categorie.categorie }}</a>
                     </li>
                     {% endfor %}
                 </ul>
-                <hr>
+                <img src="{{ post.image }}" height="400" width="800" align="middle"> {% endif %} {{ post.content|safe }}
+                <h2>Comments({{ count }})</h3>
+                    {% if count > 0 %}
+                    <hr>
+                    {% endif %}
+                    <ul class="comment-list">
+                        {% for comment in comments %}
+                        <li class="comment-list-item">
+                            <div class="comment">
 
-                <form action="{% url 'blog:post' post.id %}" method="POST">
-                    {% csrf_token %} {{ form|crispy }}
-                    <div class="g-recaptcha" data-sitekey="6Lf5HHYUAAAAABKA7NjE_uhS_XSYYNJTg1cXHFrL"></div>
-                    <button type="submit" class="btn-blog">Submit</button>                    
-                </form>
-            </div>
-            
+                                <div class="comment-header">
+                                    <i>{{ comment.name }}</i> said on {{ comment.date_created.date }}: </div>
+                                <p class="comment-content">{{ comment }}</p>
+                            </div>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    <hr>
+
+                    <form action="{% url 'blog:post' post.id %}" method="POST">
+                        {% csrf_token %} {{ form|crispy }}
+                        <div class="g-recaptcha" data-sitekey="6Ld0j3oUAAAAAAAeyPwMMWLBYq2GSrlWKGR1iILh"></div>
+                        <button type="submit" class="btn-blog">Submit</button>
+                    </form>
+                </div>            
         </div>
-       
-        
+        <div class="col-md-2 post-sidebar">
+
+            <div id="categorie">
+                <h1>Categories</h1>
+                <ul class="categories">
+                    {% for categorie in categories %}
+                    <li><a href="{% url 'blog:categorie' categorie.id %}">{{ categorie.categorie }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div id="about">
+                <h1>About me</h1>
+                <p>Hi, I'm Boris and I like to tinker with technology.</p>
+            </div>
+        </div>
     </div>
-
-
-
 </div>
+
+
+
+
 {% endblock %}
